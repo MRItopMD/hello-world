@@ -1,5 +1,4 @@
 # hello-world
 Practice
 
-SHIT MOTHER FUCKER
-FUCK THIS
+TEST TEST 1 2 3
